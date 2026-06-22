@@ -1,0 +1,157 @@
+{
+  "moneda": "ARS",
+  "fuente": "AgendaPro (agendapro.com/site/ar/veroruizpeluqueria/455260) — confirmar vigencia antes de publicar",
+  "categorias": [
+    {
+      "nombre": "Cortes",
+      "servicios": [
+        { "nombre": "Corte de flequillo", "duracion_min": 15, "precio": 15000 },
+        { "nombre": "Corte + Lavado + Modelado (con Vero Ruiz)", "duracion_min": 30, "precio": 45000 },
+        { "nombre": "Corte + Lavado + Modelado (Staff)", "duracion_min": 30, "precio": 40000 },
+        { "nombre": "Corte Masculino o Niño", "duracion_min": 30, "precio": 20000 },
+        { "nombre": "Corte Niña (hasta 12 años)", "duracion_min": 30, "precio": 35000 },
+        { "nombre": "Lavado", "duracion_min": 10, "precio": 10000 },
+        { "nombre": "Secado", "duracion_min": 15, "precio": 10000 }
+      ]
+    },
+    {
+      "nombre": "Tratamientos / Color",
+      "servicios": [
+        { "nombre": "Aplicación de color", "duracion_min": 30, "precio": 35000 },
+        { "nombre": "Color completo", "duracion_min": 60, "precio": 90000 },
+        { "nombre": "Color de mantenimiento / Matización", "duracion_min": 40, "precio": 60000 },
+        { "nombre": "Color de mantenimiento + Nutrición Premium", "duracion_min": 60, "precio": 90000 },
+        { "nombre": "Rituales L'Oréal", "duracion_min": 20, "precio": 60000 },
+        { "nombre": "Retiro de extensiones", "duracion_min": 60, "precio": 1000 },
+        { "nombre": "Service extensiones con keratina", "duracion_min": 120, "precio": 1800 },
+        { "nombre": "Corrección de color", "duracion_min": 60, "precio": null },
+        { "nombre": "Preparación de color", "duracion_min": 10, "precio": null },
+        { "nombre": "Control de extensiones", "duracion_min": 15, "precio": null }
+      ]
+    },
+    {
+      "nombre": "Decoloración Global",
+      "servicios": [
+        { "nombre": "Frontal (solo arriba)", "duracion_min": 120, "precio": 70000 },
+        { "nombre": "Mediano", "duracion_min": 180, "precio": 150000 },
+        { "nombre": "Largo", "duracion_min": 180, "precio": 180000 }
+      ]
+    },
+    {
+      "nombre": "Brushing / Planchita / Ondas",
+      "servicios": [
+        { "nombre": "Cabello corto (al mentón)", "duracion_min": 20, "precio": 25000 },
+        { "nombre": "Cabello mediano (al hombro)", "duracion_min": 30, "precio": 35000 },
+        { "nombre": "Cabello largo (abajo del hombro)", "duracion_min": 30, "precio": 30000 }
+      ]
+    },
+    {
+      "nombre": "Ondulación",
+      "servicios": [
+        { "nombre": "Corto", "duracion_min": 90, "precio": 60000 },
+        { "nombre": "Mediano", "duracion_min": 120, "precio": 80000 },
+        { "nombre": "Largo", "duracion_min": 120, "precio": 120000 }
+      ]
+    },
+    {
+      "nombre": "Peinados",
+      "servicios": [
+        { "nombre": "Peinado", "duracion_min": 30, "precio": 60000 }
+      ]
+    },
+    {
+      "nombre": "Termoactivos",
+      "servicios": [
+        { "nombre": "Corto", "duracion_min": 60, "precio": 70000 },
+        { "nombre": "Mediano", "duracion_min": 90, "precio": 90000 },
+        { "nombre": "Largo", "duracion_min": 120, "precio": 110000 }
+      ]
+    },
+    {
+      "nombre": "Rituales nutritivos",
+      "servicios": [
+        { "nombre": "Productos L'Oréal o Framesi", "duracion_min": 10, "precio": 60000 },
+        { "nombre": "Reestructuración, hidratación, protección color", "duracion_min": 30, "precio": 60000 }
+      ]
+    },
+    {
+      "nombre": "Diseño de mechas (con gorro)",
+      "servicios": [
+        { "nombre": "Corto", "duracion_min": 90, "precio": 70000 },
+        { "nombre": "Mediano", "duracion_min": 120, "precio": 110000 },
+        { "nombre": "Largo", "duracion_min": 150, "precio": 140000 }
+      ]
+    },
+    {
+      "nombre": "Diseño de mechas (con bandas)",
+      "servicios": [
+        { "nombre": "Corto", "duracion_min": 90, "precio": 85000 },
+        { "nombre": "Mediano", "duracion_min": 120, "precio": 130000 },
+        { "nombre": "Largo", "duracion_min": 150, "precio": 170000 }
+      ]
+    },
+    {
+      "nombre": "Extensiones",
+      "servicios": [
+        { "nombre": "Castañas/Amarronadas 30-35cm", "duracion_min": 30, "precio": 4500 },
+        { "nombre": "Castañas/Amarronadas 35-40cm", "duracion_min": 30, "precio": 5500 },
+        { "nombre": "Castañas/Amarronadas 40-45cm", "duracion_min": 30, "precio": 6500 },
+        { "nombre": "Castañas/Amarronadas 45-50cm", "duracion_min": 30, "precio": 7000 },
+        { "nombre": "Castañas/Amarronadas 50-55cm", "duracion_min": 30, "precio": 7500 },
+        { "nombre": "Rubias 30-35cm", "duracion_min": 30, "precio": 5000 },
+        { "nombre": "Rubias 35-40cm", "duracion_min": 30, "precio": 6000 },
+        { "nombre": "Rubias 40-45cm", "duracion_min": 30, "precio": 7000 },
+        { "nombre": "Rubias 45-50cm", "duracion_min": 30, "precio": 7500 },
+        { "nombre": "Rubias 50-55cm", "duracion_min": 30, "precio": 8000 },
+        { "nombre": "Service de extensiones con anillas", "duracion_min": 120, "precio": 1800 }
+      ]
+    },
+    {
+      "nombre": "Otros",
+      "servicios": [
+        { "nombre": "Alisado", "duracion_min": 10, "precio": 90000 },
+        { "nombre": "Depilación de rostro con cera", "duracion_min": 30, "precio": 25000 },
+        { "nombre": "Nutrición L'Oréal", "duracion_min": 45, "precio": 60000 },
+        { "nombre": "Asesoramiento", "duracion_min": 15, "precio": null },
+        { "nombre": "Color + Ritual nutritivo", "duracion_min": 60, "precio": 90000 },
+        { "nombre": "Contouring", "duracion_min": 120, "precio": 85000 },
+        { "nombre": "Corte + Color + Ritual nutritivo", "duracion_min": 120, "precio": 120000 },
+        { "nombre": "Corte + Ritual nutritivo", "duracion_min": 5, "precio": 65000 },
+        { "nombre": "Maquillaje", "duracion_min": 60, "precio": 100000 },
+        { "nombre": "Maquillaje y peinado", "duracion_min": 120, "precio": 160000 },
+        { "nombre": "Matización de mechas", "duracion_min": 60, "precio": 60000 },
+        { "nombre": "Perfilado de cejas", "duracion_min": 10, "precio": 15000 },
+        { "nombre": "Promo alisado + refuerzo nutritivo (15 días)", "duracion_min": 120, "precio": 90000 },
+        { "nombre": "Promo color + nutrición", "duracion_min": 60, "precio": 90000 },
+        { "nombre": "Promo corte + nutrición", "duracion_min": 60, "precio": 65000 },
+        { "nombre": "Promo corte + nutrición + color", "duracion_min": 60, "precio": 120000 }
+      ]
+    }
+  ],
+  "equipo": [
+    "Vero Ruiz (estilista principal / dueña)",
+    "Dani Cristin",
+    "Analia Campal",
+    "Carina Bustos",
+    "Jorgelin",
+    "Emi Acosta"
+  ],
+  "testimonios": [
+    { "autor": "Lorena", "texto": "Muy conforme!! Unas genias las chicas. Desde la atención hasta el servicio." },
+    { "autor": "Mariana", "texto": "Excelente servicio y muy cálida atención y asesoramiento. Altamente recomendable." },
+    { "autor": "Sandra", "texto": "Fue una gran experiencia... tuve el placer de conocer a Vero y a todo su equipo, unos genios. Recomendadísimo." },
+    { "autor": "Daniela", "texto": "Excelente atención y resultados." }
+  ],
+  "contacto": {
+    "direccion": "Av. Colón 1455, Planta Baja, Barrio Alberdi, Córdoba Capital, Argentina",
+    "lat": -31.4079111,
+    "lng": -64.2029462,
+    "telefono_fijo": "0351-488-7296",
+    "whatsapp_agendapro": "+54 9 351 512-8972",
+    "whatsapp_alternativo_a_confirmar": "+54 9 351 615-3081",
+    "horario": "Martes a sábado de 10:00 a 20:00 hs. Lunes y domingo cerrado.",
+    "instagram": "https://www.instagram.com/veroruizpeluqueria/",
+    "facebook": "https://www.facebook.com/p/Vero-Ruiz-Peluqueria-100089834622952",
+    "tiktok": "https://www.tiktok.com/@veroruizpeluqueria"
+  }
+}

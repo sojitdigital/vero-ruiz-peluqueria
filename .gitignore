@@ -1,0 +1,10 @@
+# Fotos originales / volcados de Instagram (no necesarios para el sitio)
+Imagenes/
+
+# Capturas temporales de revisión
+_*.png
+
+# Sistema
+Thumbs.db
+.DS_Store
+desktop.ini
